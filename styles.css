@@ -1,0 +1,218 @@
+body { 
+    background-color: rgb(82, 20, 139);
+} 
+
+h1 { 
+    text-align: center; 
+    font-size: 36px; 
+    font-family:Georgia, 'Times New Roman', Times, serif;  
+    text-decoration: underline; 
+    color: white; 
+    font-style: italic; 
+    font-size: 50px; 
+} 
+
+h2 { 
+    text-align: left;
+    color: white; 
+    font-size: 36px;
+} 
+
+.origin-text { 
+    color: black; 
+} 
+
+.insertion-text { 
+    color: black;
+} 
+
+.action-text { 
+    color: black;
+} 
+
+.innervation-text { 
+    color: black;
+}
+
+.img-container { 
+    display: flex; 
+    justify-content: flex-end; 
+}
+
+.flex-container { 
+    display: flex; 
+    flex-direction: column; 
+    background-color: rgb(202, 76, 76); 
+} 
+
+.flex-text { 
+    color: white; 
+    font-size: 34px; 
+} 
+
+.flex-container-2 { 
+    display: flex; 
+    flex-direction: column; 
+    width: 30%; 
+    height: 60%; 
+    background-color: bisque;
+    margin: 20px; 
+    text-align: center; 
+    border: solid 10px rgb(17, 59, 182); 
+} 
+
+.flex-container-3 { 
+    display: flex;
+    flex-direction: column; 
+    width: 30%; 
+    height: 60%; 
+    background-color: bisque;
+    margin: 20px; 
+    text-align: center; 
+    border: solid 10px rgb(17, 59, 182);
+} 
+
+.flex-container-4 { 
+    display: flex;
+    flex-direction: column; 
+    width: 30%; 
+    height: 60%; 
+    background-color: bisque;
+    margin: 20px; 
+    text-align: center; 
+    border: solid 10px rgb(17, 59, 182);
+} 
+
+.flex-container-5 { 
+    display: flex;
+    flex-direction: column; 
+    width: 30%; 
+    height: 60%; 
+    background-color: bisque;
+    margin: 20px; 
+    text-align: center; 
+    border: solid 10px rgb(17, 59, 182);
+}
+
+.big-container { 
+    display: flex; 
+    flex-direction: row; 
+    justify-content: center; 
+    align-items: center;
+} 
+
+h2 { 
+    text-align: center; 
+} 
+
+.mid-section-flex-box-container { 
+    display: flex;
+    flex-direction: column; 
+    justify-content: center; 
+    /* background-color: beige; */
+}
+
+.tendonitis-container { 
+    display: flex;
+    flex-direction: column; 
+    justify-content: center; 
+    background-color: beige; 
+    text-align: center; 
+    /* width: 20%  */ 
+    font-size: 24px; 
+    padding: 24px; 
+    border: 10px solid black;
+}  
+
+.tendonitis-p-text { 
+    font-size: 18px; 
+    display: flex; 
+    flex-direction: column;
+} 
+
+.bursitis-p-text { 
+    font-size: 18px; 
+    display: flex; 
+    flex-direction: row; 
+} 
+
+.rotator-p-text { 
+    font-size: 18px; 
+    display: flex; 
+    flex-direction: row;
+}
+
+
+/* .bursitis-block { 
+    
+}  */ 
+
+.bursitis { 
+    display: flex; 
+    flex-direction: column;
+    font-size: 24px; 
+    padding: 24px; 
+
+}
+
+.bursitis-container { 
+    display: flex;
+    flex-direction: column;
+    background-color: beige; 
+    border: 10px solid black; 
+    text-align: center;
+} 
+
+.rotator-block { 
+    display: flex;
+    flex-direction: column; 
+    justify-content: center; 
+    background-color: beige; 
+    text-align: center; 
+    /* width: 20%  */ 
+    font-size: 24px; 
+    padding: 24px; 
+    border: 10px solid black;
+} 
+
+
+.injury-container { 
+    display: flex; 
+    justify-content: space-around;
+} 
+
+.description-of-injury-container { 
+    display: flex; 
+    flex-direction: row;
+    justify-content: flex-start; 
+    align-items: flex-end;
+    background-color: red;
+} 
+
+.how-to-treat-heading { 
+    text-align: center;
+    color: white; 
+    font-size: 36px; 
+}
+
+.how-to-treat-container { 
+    background-color: beige;
+    font-size: 24px; 
+    border: 10px solid black; 
+}
+
+.tendonitis-heading { 
+    font-size: 44px; 
+    font-weight: bolder;
+} 
+
+.bursitis-heading { 
+    font-size: 44px; 
+    font-weight: bolder;
+
+} 
+
+.rotator-cuff-heading { 
+    font-size: 44px; 
+    font-weight: bolder;
+}
